@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Ou est ma grosse bertha",
-      "volume": "1",
+      "volume": 1,
       "last_updated": "1757438247",
       "groups": {
         "": [
@@ -17,7 +17,7 @@
     },
     "2": {
       "title": "La bertha rouge",
-      "volume": "1",
+      "volume": 1,
       "last_updated": "1757438322",
       "groups": {
         "": [
@@ -27,7 +27,7 @@
     },
     "3": {
       "title": "La bertha bleu",
-      "volume": "2",
+      "volume": 2,
       "last_updated": "1757438981",
       "groups": {
         "": [
