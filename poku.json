@@ -1,5 +1,5 @@
 {
-  "title": "poku",
+  "title": "Ma grosse bertha",
   "description": "sssss",
   "artist": "sss",
   "author": "sss",
@@ -16,12 +16,22 @@
       }
     },
     "2": {
-      "title": "lololo",
+      "title": "La bertha rouge",
       "volume": "1",
       "last_updated": "1757438322",
       "groups": {
         "": [
           "5555"
+        ]
+      }
+    },
+    "3": {
+      "title": "La bertha bleu",
+      "volume": "1",
+      "last_updated": "1757438981",
+      "groups": {
+        "": [
+          ""
         ]
       }
     }
